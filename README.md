@@ -30,5 +30,5 @@
 
 ## Installing the mod:
 1. Locate the Plugins folder at `BepInEx/Plugins`
-2. Install the mod at [TODO]
-3. Extract the zip file into the plugins folder
+2. Install the mod here at [https://github.com/jimmyking9999999/QoL-Unknown/releases/tag/releases](url)
+3. Extract the zip file/move the two .dll files into the plugins folder
