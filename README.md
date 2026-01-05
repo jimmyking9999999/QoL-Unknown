@@ -24,11 +24,11 @@
 
 # Installation: 
 ## Getting BepInEx:
-1. Install BepInEx from [https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip](url)
-2. Extract all files into your folder containing CasualtiesUnknown.exe. Replace all files when prompted
-3. Run the game once, then close the game
+1. Install BepInEx from https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip
+3. Extract all files into your folder containing CasualtiesUnknown.exe. Replace all files when prompted
+4. Run the game once, then close the game
 
 ## Installing the mod:
 1. Locate the Plugins folder at `BepInEx/Plugins`
-2. Install the mod here at [https://github.com/jimmyking9999999/QoL-Unknown/raw/refs/heads/main/QoL%20Unknown.zip](url)
+2. Install the mod here at https://github.com/jimmyking9999999/QoL-Unknown/raw/refs/heads/main/QoL%20Unknown.zip
 3. Extract the zip file/move the two .dll files into the plugins folder
