@@ -24,7 +24,7 @@
 
 # Installation: 
 ## Getting BepInEx:
-1. Install BepInEx from [https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.3/BepInEx_win_x64_5.4.23.3.zip](url)
+1. Install BepInEx from [https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip](url)
 2. Extract all files into your folder containing CasualtiesUnknown.exe. Replace all files when prompted
 3. Run the game once, then close the game
 
