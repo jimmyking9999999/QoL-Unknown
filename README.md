@@ -36,4 +36,4 @@
 ## Installing the mod:
 1. Locate the Plugins folder at `BepInEx/Plugins`
 2. Install the mod here at https://github.com/jimmyking9999999/QoL-Unknown/raw/refs/heads/main/QoL%20Unknown.dll
-3. Extract the zip file/move the two .dll files into the plugins folder
+3. Move the installed .dll file into the plugins folder
