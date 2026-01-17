@@ -18,8 +18,13 @@
 - **Shift + drag** to instantly move all liquids 
 - Scroll bar for containers that are too long (i.e. material pouch)
 - Inventory sort
+- - Unicode font support
+- Seeded runs
+- Mid-layer saves & Autosaves
+- Unbound difficulty sliders
+- Controller support
+- Many, many other fixes and minor quality of life changes
 - Optimizations that may or may not matter
-
 
 
 # Installation: 
@@ -30,5 +35,5 @@
 
 ## Installing the mod:
 1. Locate the Plugins folder at `BepInEx/Plugins`
-2. Install the mod here at https://github.com/jimmyking9999999/QoL-Unknown/raw/refs/heads/main/QoL%20Unknown.zip
+2. Install the mod here at https://github.com/jimmyking9999999/QoL-Unknown/raw/refs/heads/main/QoL%20Unknown.dll
 3. Extract the zip file/move the two .dll files into the plugins folder
