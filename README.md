@@ -18,7 +18,7 @@
 - **Shift + drag** to instantly move all liquids 
 - Scroll bar for containers that are too long (i.e. material pouch)
 - Inventory sort
-- - Unicode font support
+- Unicode font support
 - Seeded runs
 - Mid-layer saves & Autosaves
 - Unbound difficulty sliders
