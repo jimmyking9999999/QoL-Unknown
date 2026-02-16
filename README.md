@@ -34,7 +34,7 @@ This mod works alongside all other public mods!
 *   Added Unicode font support for ZH and other languages
 *   Enhanced the crafting menu item preview
 <kbd>
-<img width="448" height="184" alt="image" src="https://github.com/user-attachments/assets/21be03c0-8182-4666-a6ba-eb4b0c6f29b9" />
+<img width="448" height="184" alt="Discord Embed" src="https://github.com/user-attachments/assets/21be03c0-8182-4666-a6ba-eb4b0c6f29b9" />
 </kbd>
 
 </details>
@@ -48,7 +48,7 @@ This mod works alongside all other public mods!
 *  Scroll bars for containers that go offscreen
 *  Quick item pickup using middle-mouse button
 <kbd>
-  <img src="https://github.com/user-attachments/assets/3898e7f5-5c83-4aae-80cd-b4eab6437833" width="957">
+  <img src="https://github.com/user-attachments/assets/3898e7f5-5c83-4aae-80cd-b4eab6437833" width="957" alt="Sort Button">
 </kbd>
 
 </details>
@@ -63,7 +63,7 @@ This mod works alongside all other public mods!
 *   Layer modifiers are able to be adjusted individually (e.g., enabling only dried layers)
 *   Difficulty sliders are no longer restricted
 <kbd>
-<img width="1263" height="426" alt="image" src="https://github.com/user-attachments/assets/77c1b3b8-9edf-4496-80b6-30b3c9902a4c" />
+<img width="1263" height="426" alt="Save Slots" src="https://github.com/user-attachments/assets/77c1b3b8-9edf-4496-80b6-30b3c9902a4c" />
 </kbd>
 
 </details>
@@ -84,7 +84,7 @@ This mod works alongside all other public mods!
 *   Individual sound overrides, audio safety toggles
 *   Instant radline toggle
 <kbd>
-<img width="1364" height="805" alt="image" src="https://github.com/user-attachments/assets/7294c336-d216-4c1e-88ef-689341ba41fc" />
+<img width="1364" height="805" alt="Settings Menu" src="https://github.com/user-attachments/assets/7294c336-d216-4c1e-88ef-689341ba41fc" />
 </kbd>
   
 </details>
@@ -153,6 +153,22 @@ CasualtiesUnknownDemo/
   
 </details>
 
+## FAQ
+
+  *  My game doesn't show the mod!
+      *  There is a known BepInEx issue where mods may fail to load if your path to the game folder contains Unicode characters. If so, try moving the game folder.
+      *  Otherwise, you may have messed up the BepInEx or mod installation. Follow the installation instructions carefeully
+      *  If you still don't see the mod, ensure this mod supports your game version, and send me a ping in the Discord thread
+        
+  *  Help! I lost all my items through a layer transition!
+      *  This is a current in-game bug related to transitioning layers while unconcious. Potentially load an autosave to recover your items!
+        
+  *  What versions does this mod work on?
+      *  `v5 Pretest 5`, `v5.0.1`, `v5.0.2`, `v5.0.3`
+        
+  *  Where are my saves kept?
+      *  All saves and autosaves are kept in `%appdata%/LocalLow/Orsoniks/CasualtiesUnknown/` as `.sv` files
+        
 ## Additional Information
 
 Source code is not provided, due to the developer's stance on non-approved modding. However, this will change on the game's steam release :)
