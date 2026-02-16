@@ -126,8 +126,6 @@ CasualtiesUnknownDemo/
         └── (as well as any additional mods!)
 ```
 
-https://github.com/user-attachments/assets/601b786c-ff3f-444a-b3ad-11cf8e08b927
-
 </details>
 
 <details> 
