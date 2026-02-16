@@ -168,6 +168,10 @@ CasualtiesUnknownDemo/
         
   *  Where are my saves kept?
       *  All saves and autosaves are kept in `%appdata%/LocalLow/Orsoniks/CasualtiesUnknown/` as `.sv` files
+
+  *  Does this work mid-run? Will my saves be deleted?
+      *  Migrating from a non-modded run to a modded run works normally! (and vice versa)
+      * All your save data will stay the same, and you can continue off from where you left off at
         
 ## Additional Information
 
