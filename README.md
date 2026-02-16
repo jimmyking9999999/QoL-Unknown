@@ -105,7 +105,7 @@ Please follow these steps exactly to ensure your mod loads correctly!
     *   [Download BepInEx_win_x64_5.4.23.4.zip](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip)
 2.  Navigate to your *Casualties: Unknown* game folder (the folder containing `CasualtiesUnknown.exe`).
 3.  Extract the contents of the downloaded zip file directly into this folder.
-4.  **Important:** If prompted, choose to "Replace all files."
+4.  If prompted, choose to "Replace all files."
 5.  Run the game once to generate the necessary configuration folders, then close the game.
 6.  If you have a `BepInEx/Plugins` folder, you have done this correctly!
 
@@ -125,6 +125,9 @@ CasualtiesUnknownDemo/
         ├── QoL Unknown.dll
         └── (as well as any additional mods!)
 ```
+
+https://github.com/user-attachments/assets/601b786c-ff3f-444a-b3ad-11cf8e08b927
+
 </details>
 
 <details> 
@@ -137,9 +140,9 @@ CasualtiesUnknownDemo/
 3.  Download **BepInEx v5.4.23.4** (x64) from the official repository:
     *   [Download BepInEx_win_x64_5.4.23.4.zip](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip)
     *   Note that you **must** download the win_x64 version
-3.  Extract the contents of the downloaded zip file directly into the C:U game folder.
-4.  Open up winecfg `winecfg`, and add `winhttp.dll` as a dll override (`Libraries⁩⁩⁩⁩⁩⁩⁩⁩`)
-5.  Launch the game and close it. If you have a `BepInEx/Plugins` folder, you have done this correctly!
+4.  Extract the contents of the downloaded zip file directly into the C:U game folder.
+5.  Open up winecfg `winecfg`, and add `winhttp.dll` as a dll override (`Libraries⁩⁩⁩⁩⁩⁩⁩⁩`)
+6.  Launch the game and close it. If you have a `BepInEx/Plugins` folder, you have done this correctly!
 
 ### B: Installing QoL: Unknown
 
