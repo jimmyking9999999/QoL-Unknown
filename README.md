@@ -10,7 +10,7 @@
   
 [![Latest Release](https://img.shields.io/github/v/release/jimmyking9999999/QoL-Unknown?include_prereleases&color=orange&logo=github)](https://github.com/jimmyking9999999/QoL-Unknown/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/jimmyking9999999/QoL-Unknown/total?color=blue&logo=github)](https://github.com/jimmyking9999999/QoL-Unknown/releases)
-![Game Version](https://img.shields.io/badge/Game_version-v5.0.3-green)
+![Game Version](https://img.shields.io/badge/Game_version-v5.1.0-green)
 
 </div>
 
@@ -43,7 +43,7 @@ This mod works alongside all other public mods!
 <summary><strong>Inventory</strong></summary>
 <br>
 
-*  Quick-transfer for liquids and items via `Shift + Drag`
+*  Quick-transfer for liquids and items via `Shift + Drag`, `Ctrl + Drag` to open up secondary interactions
 *  Inventory auto-sort, prioritizing saved slots at low total weight, and lowest weight otherwise
 *  Scroll bars for containers that go offscreen
 *  Quick item pickup using middle-mouse button
@@ -163,8 +163,9 @@ CasualtiesUnknownDemo/
   *  Help! I lost all my items through a layer transition!
       *  This is a current in-game bug related to transitioning layers while unconcious. Potentially load an autosave to recover your items!
         
-  *  What versions does this mod work on?
-      *  `v5 Pretest 5`, `v5.0.1`, `v5.0.2`, `v5.0.3`
+  *  What game versions does this mod work on?
+      * Latest (v1.0.3.3+): `v5.1.0`
+      * (v1.0.3.2): `v5.0.3`, `v5.0.2`, `v5.0.1`, `Version 5 Pretest 5`
         
   *  Where are my saves kept?
       *  All saves and autosaves are kept in `%appdata%/LocalLow/Orsoniks/CasualtiesUnknown/` as `.sv` files
