@@ -104,7 +104,7 @@ Please follow these steps exactly to ensure your mod loads correctly!
 1.  Download **BepInEx v5.4.23.4** (x64) from the official repository:
     *   [Download BepInEx_win_x64_5.4.23.4.zip](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip)
 2.  Navigate to your *Casualties: Unknown* game folder (the folder containing `CasualtiesUnknown.exe`).
-    * On steam, this is `C:\Program Files (x86)\Steam\steamapps\common\Casualties Unknown Demo`
+    * On steam, this is `C:\Program Files (x86)\Steam\steamapps\common\Casualties Unknown Demo\CasualtiesUnknownDemo`
 4.  Extract the contents of the downloaded zip file directly into this folder.
 5.  If prompted, choose to "Replace all files."
 6.  Run the game once to generate the necessary configuration folders, then close the game.
@@ -165,8 +165,9 @@ Casualties Unknown Demo/
       *  This is a current in-game bug related to transitioning layers while unconcious. Potentially load an autosave to recover your items!
         
   *  What game versions does this mod work on?
-      * Latest (v1.0.3.3+): `v5.1.0`
-      * (v1.0.3.2): `v5.0.3`, `v5.0.2`, `v5.0.1`, `Version 5 Pretest 5`
+      * Steam (v1.0.3.3+): `v6 Pretest 1+`  
+      * Itch Latest (v1.0.3.3+): `v5.1.0`
+      * Other Itch Versions (v1.0.3.2): `v5.0.3`, `v5.0.2`, `v5.0.1`, `Version 5 Pretest 5`
         
   *  Where are my saves kept?
       *  All saves and autosaves are kept in `%appdata%/LocalLow/Orsoniks/CasualtiesUnknown/` as `.sv` files
