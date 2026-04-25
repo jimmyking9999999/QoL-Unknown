@@ -10,7 +10,7 @@
   
 [![Latest Release](https://img.shields.io/github/v/release/jimmyking9999999/QoL-Unknown?include_prereleases&color=orange&logo=github)](https://github.com/jimmyking9999999/QoL-Unknown/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/jimmyking9999999/QoL-Unknown/total?color=blue&logo=github)](https://github.com/jimmyking9999999/QoL-Unknown/releases)
-![Game Version](https://img.shields.io/badge/Game_version-v5.1.0-green)
+![Game Version](https://img.shields.io/badge/Game_version-v6.1.0-green)
 
 </div>
 
@@ -104,7 +104,7 @@ Please follow these steps exactly to ensure your mod loads correctly!
 1.  Download **BepInEx v5.4.23.4** (x64) from the official repository:
     *   [Download BepInEx_win_x64_5.4.23.4.zip](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip)
 2.  Navigate to your *Casualties: Unknown* game folder (the folder containing `CasualtiesUnknown.exe`).
-    * On steam, this is `C:\Program Files (x86)\Steam\steamapps\common\Casualties Unknown Demo\CasualtiesUnknownDemo`
+    * On steam (v6.1+), this is `C:\Program Files (x86)\Steam\steamapps\common\Casualties Unknown Demo`
 4.  Extract the contents of the downloaded zip file directly into this folder.
 5.  If prompted, choose to "Replace all files."
 6.  Run the game once to generate the necessary configuration folders, then close the game.
