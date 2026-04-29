@@ -26,10 +26,10 @@ This mod works alongside all other public mods!
 <br>
 
 *   Automatic integrated Discord Rich Presence game support
-*   Line of sight is enhanced
 *   Adjustable luminosity and bloom settings
-*   Brain Damage text scrambling is slightly less intrusive
-*   Added up/down arrow navigation to select different choices for autofill in the console
+*   Adjustable screen effect intensity
+*   Anti-flash/epilepsy toggle
+*   Added up/down arrow navigation to select different choices for autofill in the console, as well as other console improvements
 *   Console `spawn` command now autofills and has a visual guide
 *   Added Unicode font support for ZH and other languages
 *   Enhanced the crafting menu item preview
@@ -43,7 +43,7 @@ This mod works alongside all other public mods!
 <summary><strong>Inventory</strong></summary>
 <br>
 
-*  Quick-transfer for liquids and items via `Shift + Drag`, `Ctrl + Drag` to open up secondary interactions
+*  Quick-transfer for liquids and items via `Shift + Drag`, `Ctrl + Drag`, and added secondary inventory interactions 
 *  Inventory auto-sort, prioritizing saved slots at low total weight, and lowest weight otherwise
 *  Scroll bars for containers that go offscreen
 *  Quick item pickup using middle-mouse button
@@ -62,6 +62,8 @@ This mod works alongside all other public mods!
 *   Seeded runs for consistent worlds. (This syncs worlds down to the same keycode and items from drop pods!)
 *   Layer modifiers are able to be adjusted individually (e.g., enabling only dried layers)
 *   Difficulty sliders are no longer restricted
+*   Less tedious minigames
+*   Sound cannon indicator
 <kbd>
 <img width="1263" height="426" alt="Save Slots" src="https://github.com/user-attachments/assets/77c1b3b8-9edf-4496-80b6-30b3c9902a4c" />
 </kbd>
@@ -161,13 +163,13 @@ Casualties Unknown Demo/
       *  Otherwise, you may have messed up the BepInEx or mod installation. Follow the installation instructions carefeully
       *  If you still don't see the mod, ensure this mod supports your game version, and send me a ping in the Discord thread
         
-  *  Help! I lost all my items through a layer transition!
-      *  This is a current in-game bug related to transitioning layers while unconcious. Potentially load an autosave to recover your items!
-        
   *  What game versions does this mod work on?
-      * Steam (v1.0.3.3+): `v6 Pretest 1+`  
-      * Itch Latest (v1.0.3.3+): `v5.1.0`
-      * Other Itch Versions (v1.0.3.2): `v5.0.3`, `v5.0.2`, `v5.0.1`, `Version 5 Pretest 5`
+    
+| Mod Version | Game Version(s) | Platform |
+| :--- | :--- | :--- |
+| v1.0.3.3, v1.0.4+ |  `v6.0`, `v6.1` | Steam |
+| v1.0.3.3  | `v5.1.0` | Itch.io |
+| v1.0.3.2 | `v5.0.3`, `v5.0.2`, `v5.0.1`, `Version 5 Pretest 5` | Itch.io |
         
   *  Where are my saves kept?
       *  All saves and autosaves are kept in `%appdata%/LocalLow/Orsoniks/CasualtiesUnknown/` as `.sv` files
