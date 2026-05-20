@@ -32,7 +32,7 @@ This mod works alongside all other public mods!
 *   Added up/down arrow navigation to select different choices for autofill in the console, as well as other console improvements
 *   Console `spawn` command now autofills and has a visual guide
 *   Added Unicode font support for ZH and other languages
-*   Enhanced the crafting menu item preview
+*   Enhanced the crafting menu item preview, with autocraft and multi-craft additions
 <kbd>
 <img width="448" height="184" alt="Discord Embed" src="https://github.com/user-attachments/assets/21be03c0-8182-4666-a6ba-eb4b0c6f29b9" />
 </kbd>
@@ -167,7 +167,7 @@ Casualties Unknown Demo/
     
 | Mod Version | Game Version(s) | Platform |
 | :--- | :--- | :--- |
-| v1.0.3.3, v1.0.4+ |  `v6.0`, `v6.1` | Steam |
+| v1.0.3.3, v1.0.4.1+ |  `v6.0`, `v6.1` | Steam |
 | v1.0.3.3  | `v5.1.0` | Itch.io |
 | v1.0.3.2 | `v5.0.3`, `v5.0.2`, `v5.0.1`, `Version 5 Pretest 5` | Itch.io |
         
@@ -177,6 +177,9 @@ Casualties Unknown Demo/
   *  Does this work mid-run? Will my saves be deleted?
       *  Migrating from a non-modded run to a modded run works normally! (and vice versa)
       * All your save data will stay the same, and you can continue off from where you left off at
+
+  *  Does this support multiplayer?
+      * v1.0.4.1 and above support multiplayer! Yay! Not all players need the mod for it to work, and it functions independantly.
         
 ## Additional Information
 
