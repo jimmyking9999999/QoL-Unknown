@@ -31,7 +31,6 @@ This mod works alongside all other public mods!
 *   Anti-flash/epilepsy toggle
 *   Added up/down arrow navigation to select different choices for autofill in the console, as well as other console improvements
 *   Console `spawn` command now autofills and has a visual guide
-*   Added Unicode font support for ZH and other languages
 *   Enhanced the crafting menu item preview, with autocraft and multi-craft additions
 <kbd>
 <img width="448" height="184" alt="Discord Embed" src="https://github.com/user-attachments/assets/21be03c0-8182-4666-a6ba-eb4b0c6f29b9" />
@@ -45,7 +44,7 @@ This mod works alongside all other public mods!
 
 *  Quick-transfer for liquids and items via `Shift + Drag`, `Ctrl + Drag`, and added secondary inventory interactions 
 *  Inventory auto-sort, prioritizing saved slots at low total weight, and lowest weight otherwise
-*  Scroll bars for containers that go offscreen
+*  Scroll bars for containers and equippables that go offscreen
 *  Quick item pickup using middle-mouse button
 <kbd>
   <img src="https://github.com/user-attachments/assets/3898e7f5-5c83-4aae-80cd-b4eab6437833" width="957" alt="Sort Button">
@@ -62,8 +61,8 @@ This mod works alongside all other public mods!
 *   Seeded runs for consistent worlds. (This syncs worlds down to the same keycode and items from drop pods!)
 *   Layer modifiers are able to be adjusted individually (e.g., enabling only dried layers)
 *   Difficulty sliders are no longer restricted
-*   Less tedious minigames
 *   Sound cannon indicator
+*   Extra settings to retain several v6 behaviour
 <kbd>
 <img width="1263" height="426" alt="Save Slots" src="https://github.com/user-attachments/assets/77c1b3b8-9edf-4496-80b6-30b3c9902a4c" />
 </kbd>
@@ -84,7 +83,7 @@ This mod works alongside all other public mods!
 *   Pre-run skill point allocation
 *   Framerate, resolution, window settings
 *   Individual sound overrides, audio safety toggles
-*   Instant radline toggle
+*   Instant radline toggle, skip exit animation, save custom rule presets
 <kbd>
 <img width="1364" height="805" alt="Settings Menu" src="https://github.com/user-attachments/assets/7294c336-d216-4c1e-88ef-689341ba41fc" />
 </kbd>
@@ -152,7 +151,6 @@ Casualties Unknown Demo/
     *   [Download QoL Unknown.dll](https://github.com/jimmyking9999999/QoL-Unknown/raw/refs/heads/main/QoL%20Unknown.dll)
 3.  Place the `QoL Unknown.dll` file inside the `BepInEx/Plugins` folder.
 4.  Launch the game.
-5.  To enable Discord RPC, read [here](https://github.com/ValveSoftware/Proton/wiki/Enabling-Discord-Rich-Presence)
   
 </details>
 
@@ -167,7 +165,8 @@ Casualties Unknown Demo/
     
 | Mod Version | Game Version(s) | Platform |
 | :--- | :--- | :--- |
-| v1.0.3.3, v1.0.4.1+ |  `v6.0`, `v6.1` | Steam |
+| v1.0.4.4 | `v7` | Steam |
+| v1.0.3.3 - v1.0.4.3+ |  `v6.0`, `v6.1` | Steam |
 | v1.0.3.3  | `v5.1.0` | Itch.io |
 | v1.0.3.2 | `v5.0.3`, `v5.0.2`, `v5.0.1`, `Version 5 Pretest 5` | Itch.io |
         
@@ -179,7 +178,7 @@ Casualties Unknown Demo/
       * All your save data will stay the same, and you can continue off from where you left off at
 
   *  Does this support multiplayer?
-      * v1.0.4.1 and above support multiplayer! Yay! Not all players need the mod for it to work, and it functions independantly.
+      * v1.0.4.1 and above versions support multiplayer! Yay! Not all players need the mod for it to work, and it functions independantly (client-side).
         
 ## Additional Information
 
