@@ -10,7 +10,7 @@
   
 [![Latest Release](https://img.shields.io/github/v/release/jimmyking9999999/QoL-Unknown?include_prereleases&color=orange&logo=github)](https://github.com/jimmyking9999999/QoL-Unknown/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/jimmyking9999999/QoL-Unknown/total?color=blue&logo=github)](https://github.com/jimmyking9999999/QoL-Unknown/releases)
-![Game Version](https://img.shields.io/badge/Game_version-v6.1.0-green)
+![Game Version](https://img.shields.io/badge/Game_version-v7.1.0-green)
 
 </div>
 
