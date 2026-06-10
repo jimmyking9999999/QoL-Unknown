@@ -16,7 +16,7 @@
 
 ## Overview
 
-This mod is a general quality of life mod for [Casualties: Unknown](https://orsonik.itch.io/scav-prototype), meant to introduce accessibility and QoL features without changing the core mechanics of the game. 
+This mod is a general quality of life mod for [Casualties: Unknown](https://store.steampowered.com/app/4576490/Casualties_Unknown/), meant to introduce accessibility and QoL features without changing the core mechanics of the game. 
 
 This mod works alongside all other public mods!
 
@@ -64,7 +64,7 @@ This mod works alongside all other public mods!
 *   Sound cannon indicator
 *   Extra settings to retain several v6 behaviour
 <kbd>
-<img width="1263" height="426" alt="Save Slots" src="https://github.com/user-attachments/assets/77c1b3b8-9edf-4496-80b6-30b3c9902a4c" />
+<img width="1472" height="924" alt="image" src="https://github.com/user-attachments/assets/07933606-de30-47a1-aad3-f3b29364c9f2" />
 </kbd>
 
 </details>
@@ -85,7 +85,7 @@ This mod works alongside all other public mods!
 *   Individual sound overrides, audio safety toggles
 *   Instant radline toggle, skip exit animation, save custom rule presets
 <kbd>
-<img width="1364" height="805" alt="Settings Menu" src="https://github.com/user-attachments/assets/7294c336-d216-4c1e-88ef-689341ba41fc" />
+<img width="1117" height="821" alt="image" src="https://github.com/user-attachments/assets/5dfb14e0-121b-4633-988e-fe9fa32e5cec" />
 </kbd>
   
 </details>
