@@ -10,7 +10,9 @@
   
 [![Latest Release](https://img.shields.io/github/v/release/jimmyking9999999/QoL-Unknown?include_prereleases&color=orange&logo=github)](https://github.com/jimmyking9999999/QoL-Unknown/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/jimmyking9999999/QoL-Unknown/total?color=blue&logo=github)](https://github.com/jimmyking9999999/QoL-Unknown/releases)
+[![Nexus Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyking9999999%2FMetadata-generator%2Fmain%2Fbadges%2Fqol-unknown.json)](https://www.nexusmods.com/scavprototype/mods/7)
 ![Game Version](https://img.shields.io/badge/Game_version-v7.1.0-green)
+
 
 </div>
 
