@@ -167,6 +167,8 @@ Casualties Unknown Demo/
     
 | Mod Version | Game Version(s) | Platform |
 | :--- | :--- | :--- |
+| v1.1 | `v1.0 (Full Steam Release)` | Steam |
+| v1.0.4.5 - 1.0.5.2 | `v7.0.1 (Game Demo)` | Steam |
 | v1.0.4.4 | `v7` | Steam |
 | v1.0.3.3 - v1.0.4.3+ |  `v6.0`, `v6.1` | Steam |
 | v1.0.3.3  | `v5.1.0` | Itch.io |
